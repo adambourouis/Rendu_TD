@@ -1,4 +1,5 @@
-# Rendu_TD
+# Rendu_TD 
+Membre du groupe : Adam Bourouis ElIdrissi - Simulation 2eme etudiant 
 Adam
 Bourouis
 El
