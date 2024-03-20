@@ -1,1 +1,6 @@
-# Rendu_TD
+
+JE
+PENSE
+DONC
+JE 
+SUIS # Rendu_TD
