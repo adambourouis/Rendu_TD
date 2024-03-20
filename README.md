@@ -1,6 +1,5 @@
-
-JE
-PENSE
-DONC
-JE 
-SUIS # Rendu_TD
+# Rendu_TD
+Adam
+Bourouis
+El
+Idrissi
